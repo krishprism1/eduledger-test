@@ -24,14 +24,7 @@ $ forge fmt
 $ forge snapshot
 ```
 
-### Anvil
-
-```shell
-$ anvil
-```
-
-
-
+### Deploy
 ```shell
 $ forge script script/Deploy.s.sol:Deploy \
   --rpc-url https://forno.celo-sepolia.celo-testnet.org \
@@ -39,7 +32,7 @@ $ forge script script/Deploy.s.sol:Deploy \
   -vvvv
 ```
 
-### Deploy
+### Verify
 forge verify-contract \
   --chain-id 11142220 \
   --watch \
