@@ -62,7 +62,6 @@ $ cast --help
 ```
 
 
-- deployed smart contract 0xBd517DFba8B762Bc7681a7fBBf00DC562cf916D1
-
+- deployed smart contract https://sepolia.celoscan.io/address/0xbd517dfba8b762bc7681a7fbbf00dc562cf916d1
 
 
